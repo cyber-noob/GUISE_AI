@@ -21,7 +21,7 @@ Model Accuracy Metrics
 Epoch 5/5
 119/119 [==============================] - 973s 8s/step - loss: 0.0359 - accuracy: 0.9910 - val_loss: 0.0321 - val_accuracy: 0.9915
 
- 
+ ![tensorboard](tensorboard.png)
 
 Evaluate on test data
 50/50 [==============================] - 140s 3s/step - loss: 0.0283 - accuracy: 0.9919
